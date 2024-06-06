@@ -1,0 +1,71 @@
+
+body {
+    font-family: Yantramanav, sans-serif;
+    background-color: rgb(236, 235, 228);
+}
+
+header {
+    background-color: rgb(236, 235, 228);
+}
+
+.navbar-brand {
+    font-family: Libre Caslon Text, serif;
+}
+
+.btn-primary {
+    background-color: gold;
+    color: rgb(61, 61, 61);
+    border-width: 2px;
+    border-color: rgb(126, 126, 126);
+}
+
+.email {
+    width: 35%;
+}
+
+.about-trombone {
+    filter: grayscale(100%);
+}
+
+.card {
+    background-color: rgb(245, 245, 245);
+}
+
+ion-icon {
+    height: 50px;
+    width: 50px;
+    margin-bottom: 14px;
+    padding: 6px;
+    color: orange;
+}
+
+.video {
+    text-align: center;
+}
+
+iframe {
+    height: 315px;
+    width: 500px; 
+    margin-top: 20px;
+}
+
+.divide {
+    margin: 100px;
+}
+
+footer {
+    background-color: rgb(215, 215, 215);
+    text-align: center;
+    padding-top: 150px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+}
+
+footer-btn {
+    border: none;
+    outline: none;
+}
